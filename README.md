@@ -1,4 +1,4 @@
-# Undefined-type-intelephense-vscode
+# Undefined type intelephense in vscode
 problem Undefined type intelephense in vscode 
 ==============================================
 
